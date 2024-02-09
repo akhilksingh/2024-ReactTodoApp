@@ -1,0 +1,19 @@
+{
+  "name": "2024-reacttodoapp",
+  "version": "1.0.0",
+  "description": "This app is to practice and brush up basic skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhilksingh/2024-ReactTodoApp.git"
+  },
+  "author": "Akhil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhilksingh/2024-ReactTodoApp/issues"
+  },
+  "homepage": "https://github.com/akhilksingh/2024-ReactTodoApp#readme"
+}
